@@ -57,16 +57,17 @@ pip install -r requirements.txt
 ### Usage
 1. Generate sample data:
 
-python src/generate_logs.py \
-    --users 1000 \
-    --days 90 \
-    --output data/raw_events.csv
+  python src/generate_logs.py \
+        --users 1000 \
+        --days 90 \
+        --output data/raw_events.csv
+
 
 2. Run the analytics pipeline:
 
-python src/process_logs.py \
-    --input data/raw_events.csv \
-    --output-dir data/processed/
+  python src/process_logs.py \
+      --input data/raw_events.csv \
+      --output-dir data/processed/
 
 
 3. Key output files:
@@ -139,8 +140,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com  
-Project Link: [https://github.com/yourusername/saas-metrics-pipeline](https://github.com/yourusername/saas-metrics-pipeline)
+Your Name - pmsrinivasa65@gmail.com  
+Project Link: (https://github.com/yourusername/saas-metrics-pipeline)
 
 
 ### Key Features of This README:
@@ -166,13 +167,5 @@ Project Link: [https://github.com/yourusername/saas-metrics-pipeline](https://gi
    - Contact details
 
 5. **Visual Elements**:
-   - Dashboard preview image (link to your actual screenshot)
+   - Dashboard preview image (link for the dashboard view)
    - Color-coded code blocks
-
-To use:
-1. Copy this entire text into your `README.md` file
-2. Replace placeholder links with your actual project URLs
-3. Add your own dashboard screenshot to `/docs/images/`
-4. Update contact information
-
-This README follows GitHub best practices and will impress both technical reviewers and hiring managers!
