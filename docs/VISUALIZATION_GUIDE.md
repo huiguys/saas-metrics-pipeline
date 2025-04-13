@@ -51,8 +51,6 @@ user_count to Values
 
 User Segments
 
-Copy
-// DAX Measure for LTV by Segment:
 Segment LTV = 
 VAR CurrentSegment = SELECTEDVALUE(user_activity[user_segment])
 RETURN
@@ -60,6 +58,7 @@ CALCULATE(
     AVERAGE(user_activity[simulated_ltv]),
     user_activity[user_segment] = CurrentSegment
 )
+
 Best Practices
 Color Schemes:
 
