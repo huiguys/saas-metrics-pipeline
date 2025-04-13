@@ -142,30 +142,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - pmsrinivasa65@gmail.com  
 Project Link: (https://github.com/yourusername/saas-metrics-pipeline)
-
-
-### Key Features of This README:
-
-1. **Professional Presentation**:
-   - Shields.io badges for quick tech stack visibility
-   - Mermaid diagram for architecture visualization
-   - Clean tables for data documentation
-
-2. **Complete Usage Guide**:
-   - Clear installation instructions
-   - Sample commands with parameters
-   - Output file explanations
-
-3. **Business-Ready Details**:
-   - Data model documentation
-   - Pre-built dashboard templates
-   - Environment configuration examples
-
-4. **Maintenance-Friendly**:
-   - Contribution guidelines
-   - License information
-   - Contact details
-
-5. **Visual Elements**:
-   - Dashboard preview image (link for the dashboard view)
-   - Color-coded code blocks
