@@ -2,11 +2,8 @@
 ````markdown
 # SaaS Metrics Analytics Pipeline
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-
 ![Pandas](https://img.shields.io/badge/pandas-2.0%2B-orange)
-
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-red)
-
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 
