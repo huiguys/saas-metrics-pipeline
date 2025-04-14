@@ -1,10 +1,15 @@
 
 ````markdown
 # SaaS Metrics Analytics Pipeline
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![Libraries](https://img.shields.io/badge/libraries-pandas%2C%20numpy%2C%20scikit--learn%2C%20statsmodels-orange)
+![Pandas](https://img.shields.io/badge/pandas-2.0%2B-orange)
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-red)
+
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+
 
 A data pipeline project for simulating, tracking, and analyzing key metrics for a SaaS product, including machine learning insights like churn prediction and user segmentation.
 
@@ -56,7 +61,7 @@ graph TD
 1.  **Clone the repository:**
     ```bash
     # Replace 'yourusername' with your actual GitHub username
-    git clone [https://github.com/yourusername/saas-metrics-pipeline.git](https://github.com/yourusername/saas-metrics-pipeline.git)
+    git clone [https://github.com/huiguys/saas-metrics-pipeline.git](https://github.com/huiguys/saas-metrics-pipeline.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -133,7 +138,7 @@ The `process_logs.py` script calculates numerous metrics stored in the output fi
 
 The generated CSV files can be easily connected to Business Intelligence tools like Tableau, Power BI, Google Looker Studio, etc.
 
-Refer to the **[VISUALIZATION\_GUIDE.md](https://www.google.com/search?q=VISUALIZATION_GUIDE.md)** file for detailed steps and best practices on building dashboards with these outputs in Tableau and Power BI.
+Refer to the **[VISUALIZATION\_GUIDE.md](docs/VISUALIZATION_GUIDE.md)** file for detailed steps and best practices on building dashboards with these outputs in Tableau and Power BI.
 
 *(Note: This project does not include pre-built dashboard template files like `.twb` or `.pbix`. You will build the dashboards by connecting to the CSV data sources as described in the guide.)*
 
@@ -160,4 +165,4 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 Srinivasa PM - pmsrinivasa65@gmail.com
 
-Project Link: [https://github.com/yourusername/saas-metrics-pipeline](https://github.com/huiguys/saas-metrics-pipeline)
+Project Link: [https://github.com/huiguys/saas-metrics-pipeline](https://github.com/huiguys/saas-metrics-pipeline)
