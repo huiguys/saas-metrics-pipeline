@@ -1,9 +1,13 @@
+markdown
 
-````markdown
 # SaaS Metrics Analytics Pipeline
-![Python](https://img.shields.io/badge/python-3.9+-blue)
-![Libraries](https://img.shields.io/badge/libs-pandas,%20numpy,%20sklearn,%20statsmodels-orange)
+
+
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![Pandas](https://img.shields.io/badge/pandas-2.0%2B-orange)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-red)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
 
 
 A data pipeline project for simulating, tracking, and analyzing key metrics for a SaaS product, including machine learning insights like churn prediction and user segmentation.
